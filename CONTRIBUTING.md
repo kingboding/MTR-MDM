@@ -9,9 +9,13 @@
 
 ## 3. [王  泽](https://github.com/mtrwz)
  
+<<<<<<< HEAD
 
 
 ## 4. [张芙蓉](https://github.com/SummerLimon)
+=======
+ 张芙蓉 
+>>>>>>> parent of 8f82886... Update CONTRIBUTING.md
  
 
 
