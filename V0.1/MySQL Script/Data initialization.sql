@@ -1,7 +1,9 @@
 /*
-Source Database       : mdm
+Source Database       : MDM
 Target Server Type    : MYSQL
 Date: 2017-09-29 10:00:00
+
+
 */
 
 SET FOREIGN_KEY_CHECKS=0;
